@@ -1,1 +1,0 @@
-boot=<la dirección completadel link hacia sda>compactdefault=Linuxdelay=40install=menularge-memorylba32map=/boot/maproot=”<el file system anotado>”read-onlyvga=normalimage=/boot/vmlinuzlabel=Linuxinitrd=/boot/initrd.imgimage=/boot/vmlinuz.oldlabel=LinuxOldinitrd=/boot/initrd.img.oldoptional
